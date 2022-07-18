@@ -11,7 +11,7 @@ Contract- [smart.py](https://smartpy.io/ide?code=eJzVWVtv3LgVfp9fwSoILKGKPPba2db
 ## Getting Started
 1. Clone your new repository:
 
-```git clone https://github.com/mohammadreza-ashouri/PerzBytes.git```
+```git clone https://github.com/Powerful2100/PerzByte-TezosNFTMarketPlace.git```
 
 2. Change your current working directory to the newly cloned repository directory.
 
@@ -31,7 +31,7 @@ Contract- [smart.py](https://smartpy.io/ide?code=eJzVWVtv3LgVfp9fwSoILKGKPPba2db
 
 
 ## Team Member
-  - Mohammadreza Ashouri
+  - Hanzou Iwamoto
 
 ### What?
 > I have created a NFT marketplace, that is decentralized. There are no applications required to post artwork. Any artist can create a NFT, When someone buys that he will receive the amount.
